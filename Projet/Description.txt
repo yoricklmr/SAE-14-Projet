@@ -1,0 +1,12 @@
+Projet pokémon
+
+Objectifs
+- Trouve un logo 
+- Trouve un fond d'écran
+- Télécharge chaque photos de tout les pokémons
+- Fais le texte de la page d'accueil
+- Fais un répertoire de toutes les attaques reliés à chaque pokémon
+- Il faut intégrer un système de collection
+- BONUS -> Si tu trouves le temps, sur la page de chaque pokémon, intègre leur version shiny.
+
+
